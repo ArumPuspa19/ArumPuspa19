@@ -7,6 +7,7 @@
 ## 🛠️ Language and Tools:
 ![JAVA](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/8ea57519-9677-497c-ba17-dd4c26794512)
 ![INTEL](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/82cd9c41-6006-4d84-bb58-4b51960b335f)
+![POSTMAN](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/b126b80a-9ed0-4b33-afaa-f093b953d7ef)
 java intellij postman serenity-bdd cucumber selenium rest-assured android testrail jmeter appium mysql
 📈 Stats:
 
