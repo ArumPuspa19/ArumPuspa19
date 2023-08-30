@@ -16,14 +16,6 @@
 ![GIT](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/69c2b822-95d6-49af-9949-7dc523825fe6)
 ![JS](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/6c48b736-2bcb-495a-a298-7f531be0fdc6)
 
-📈 Stats:
+## 🤝 Reach Me
+ [![LinkedIn](https://img.shields.io/badge/-Arum%20Puspa-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arum-puspa-khinanthi-b3683b221)
 
-📫 Lets's Connect with me!
-
-Linkedin Badge
-🤝 Reach Me
-
-🧰 Languages and Tools
-
-Java Selenium Webdriver Cucumber Postman Serenity BDD MySQL
-⚡ Top Language
