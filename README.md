@@ -1,8 +1,5 @@
- <p align="center">
-Hi, I'm Arum Puspa Khinanthi!👋
-    
-  </p>
-</div>
+
+## Hi, I'm Arum Puspa Khinanthi!👋
 
 👀 About Me
 
