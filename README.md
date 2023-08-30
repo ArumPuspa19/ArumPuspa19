@@ -2,10 +2,7 @@
 ## Hi, I'm Arum Puspa Khinanthi!👋
 
 👀 About Me
-
-    I’m currently learning and improving my Quality Assurance Engineer (Automation & Manual) skills
-    I have graduated from Alterra Academy as Quality Assurance Engineer
-    I have a strong interest in Quality Engineering and like explore about new trends in QE tech
+<p align="justify">I took an immersive Quality Engineer class at Alterra Academy. The skill that I learned is the process of data testing an application performance. The skills I have are Documentation Testing, WEB Automation and API Automation.</p>
 
 🤝 Reach Me
 Muhammad Faruqi Rabbani | Instagram Muhammad Faruqi Rabbani | Twitter Muhammad Faruqi Rabbani | Linkedin
