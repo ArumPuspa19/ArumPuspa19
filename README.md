@@ -1,5 +1,5 @@
  <p align="center">
-## Hi, I'm Arum Puspa Khinanthi!👋
+Hi, I'm Arum Puspa Khinanthi!👋
     
   </p>
 </div>
