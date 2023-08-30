@@ -1,6 +1,6 @@
+<div>
  <p align="center">
-    <br>Hi there 👋, I'm Arum Puspa Khinanthi!
-    <br />
+    <br>Hi, I'm Arum Puspa Khinanthi!👋
     <br />
   </p>
 </div>
