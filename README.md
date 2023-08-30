@@ -14,6 +14,7 @@
 ![JMETER](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/2f136e64-e73e-47b1-a262-1897ba702b68)
 ![MYSQL](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/87daca3b-22d5-4f28-b3f7-0cc8c9dce6dc)
 ![GIT](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/69c2b822-95d6-49af-9949-7dc523825fe6)
+![JS](https://github.com/ArumPuspa19/ArumPuspaKhinanthi/assets/124779557/6c48b736-2bcb-495a-a298-7f531be0fdc6)
 
 📈 Stats:
 
