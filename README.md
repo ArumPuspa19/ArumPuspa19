@@ -1,7 +1,8 @@
-<div>
  <p align="center">
+ </br>
     <br>Hi, I'm Arum Puspa Khinanthi!👋
     <br />
+     <br />
   </p>
 </div>
 
