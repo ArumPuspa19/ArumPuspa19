@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Quality Engineer from Indonesia</h3>
 
  ## 💬 Ask me about
-I graduated from a Bachelor of Information Engineering at Indraprasta PGRI University and also a graduate of Immersive Quality Engineering at Alterra Academy. I have expertise such as Testing Documentation (manual and automation) and Performance testing. I am a person who is time and detail oriented for each feature that is being tested to find out that each feature works properly.
+I'm Bachelor's degree in Information Engineering from Universitas Indraprasta PGRI, and also a graduate of the Immersive Quality Engineering program at Alterra Academy. My expertise spans Testing Documentation (both manual and automation) and Performance Testing using Jmeter. I am a person who is time and detail oriented, always ensuring that every feature I test functions flawlessly and meets the highest standards of quality.
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-Arum%20Puspa-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arum-puspa-khinanthi-b3683b221)
