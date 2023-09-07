@@ -6,7 +6,7 @@ I graduated from a Bachelor of Information Engineering at Indraprasta PGRI Unive
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-Arum%20Puspa-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arum-puspa-khinanthi-b3683b221)
-[![GitHub](https://img.shields.io/badge/-ArumCute-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/arumcute)
+[![GitHub](https://img.shields.io/badge/-ArumPuspa19-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArumPuspa19)
 
 
 ## <h3 align="left">🛠 Languages and Tools:</h3>
