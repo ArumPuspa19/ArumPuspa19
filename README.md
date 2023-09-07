@@ -1,4 +1,5 @@
 
+![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
 ## Hi, I'm Arum Puspa Khinanthi!👋
 
 ## 👀 About Me
