@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arum Puspa Khinanthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Quality Engineer from Indonesia</h3>
 
-- 💬 Ask me about **I graduated from a Bachelor of Information Engineering at Indraprasta University PGRI and also a graduate of Immersive Quality Engineering at Alterra Academy. I have expertise such as Testing Documentation (manual and automation) and Performance testing. I am a person who is time and detail oriented for each feature that is being tested to find out that each feature works properly.**
+- 💬 Ask me about
+- **I graduated from a Bachelor of Information Engineering at Indraprasta University PGRI and also a graduate of Immersive Quality Engineering at Alterra Academy. I have expertise such as Testing Documentation (manual and automation) and Performance testing. I am a person who is time and detail oriented for each feature that is being tested to find out that each feature works properly.**
 
-- 📫 How to reach me **arum19puspakhi@gmail.com**
+- 📫 How to reach me
+- **arum19puspakhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arum puspakhinanthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arum puspakhinanthi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arum-puspa-khinanthi-b3683b221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arum-puspa-khinanthi-b3683b221/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
