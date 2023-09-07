@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arum Puspa Khinanthi</h1>
 <h3 align="center">A passionate Quality Engineer from Indonesia</h3>
 
-- 💬 Ask me about
-- **I graduated from a Bachelor of Information Engineering at Indraprasta University PGRI and also a graduate of Immersive Quality Engineering at Alterra Academy. I have expertise such as Testing Documentation (manual and automation) and Performance testing. I am a person who is time and detail oriented for each feature that is being tested to find out that each feature works properly.**
+ ## 💬 Ask me about
+I graduated from a Bachelor of Information Engineering at Indraprasta University PGRI and also a graduate of Immersive Quality Engineering at Alterra Academy. I have expertise such as Testing Documentation (manual and automation) and Performance testing. I am a person who is time and detail oriented for each feature that is being tested to find out that each feature works properly.
 
-- 📫 How to reach me
-- **arum19puspakhi@gmail.com**
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/-Arum%20Puspa-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arum-puspa-khinanthi-b3683b221)
+[![GitHub](https://img.shields.io/badge/-ArumCute-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/arumcute)
+[![gmail](https://github.com/ArumPuspa19/ArumPuspa19/assets/124779557/8c08f8c5-65d7-40a5-bbf1-f65bea6dbc26)](arum19puspakhi@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
